@@ -7,4 +7,4 @@ resume made with LaTeX
 - install the following package on Debian based distro : sudo apt-get install texlive-fonts-extra
 
 # result 
-<image src="./main.pdf"/>
+[Here you can see the final result](main.pdf)
